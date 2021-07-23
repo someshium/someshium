@@ -1,12 +1,7 @@
-### Hi there 👋
+### Hi there, I'm [Somesh!](https://someshium.tech) 👋
 
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I like to Build Products, Running, Travelling and Play Flute 🎼
-- 💬 Ask me about Web Dev. technologies, Product Develpment, Philosophy, Travelling 😎
-- 📫 How to reach me: somesh.mishra2018@vitstudent.ac.in 
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: it's a secret kkkkk
+<a href="https://twitter.com/someshium">
+  <img align="left" alt="Somesh Mishra | Twitter" width="21px" src="https://raw.githubusercontent.com/someshium/someshium/master/assets/twitter.svg" />
+</a>
 
