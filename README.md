@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshium&label=Profile%20views&color=0e75b6&style=flat" alt="someshium" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/someshium" target="blank"><img src="https://img.shields.io/twitter/follow/someshium?logo=twitter&style=for-the-badge" alt="someshium" /></a> </p>
-
 - 🧑‍💻 I am currently working in Data Engineering domain, building solutions over realtime and batch data processing.
 
 - 👨‍💻 All of my projects are available at [someshium](https://github.com/someshium)
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/someshium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="someshium" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/someshium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="someshium" height="30" width="40" /></a>
 </p>
 
