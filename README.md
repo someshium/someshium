@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshium&label=Profile%20views&color=0e75b6&style=flat" alt="someshium" /> </p>
 
-- 🧑‍💻 I am currently working in Data Engineering domain, building solutions over realtime and batch data processing.
+- 🧑‍💻 I am currently working in Fin-Tech domain, building web apps, realtime and batch processing applications.
 
 - 👨‍💻 All of my projects are available at [someshium](https://github.com/someshium)
 
-- 💬 Ask me about **Big Data, Batch Processing, Stream Processing, Data Warehousing, Data Modelling, Data Pipelines :)**
+- 💬 Ask me about **Web applications, Backend Development, Stream Processing, Batch Processing, Databases, System Design, Microservices :)**
 
 - 📫 How to reach me **someshiumdev@gmail.com**
 
